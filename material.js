@@ -1,11 +1,11 @@
 let wood = {
-  amount: 10000000,
+  amount: 0,
   increment: 1,
   isDiscovered: true,
 };
 
 let stone = {
-  amount: 10000000,
+  amount: 0,
   increment: 0,
   isDiscovered: false,
 };
